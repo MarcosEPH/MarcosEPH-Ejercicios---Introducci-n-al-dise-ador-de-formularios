@@ -1,0 +1,32 @@
+D:\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.exe
+D:\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.deps.json
+D:\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.runtimeconfig.json
+D:\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.dll
+D:\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.pdb
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.Form1.resources
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.csproj.GenerateResource.cache
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.AssemblyInfoInputs.cache
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.AssemblyInfo.cs
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.dll
+D:\Ejercicio2\obj\Debug\net8.0-windows\refint\Ejercicio2.dll
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.pdb
+D:\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.genruntimeconfig.cache
+D:\Ejercicio2\obj\Debug\net8.0-windows\ref\Ejercicio2.dll
+D:\Tarea Ejercicios\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.exe
+D:\Tarea Ejercicios\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.deps.json
+D:\Tarea Ejercicios\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.runtimeconfig.json
+D:\Tarea Ejercicios\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.dll
+D:\Tarea Ejercicios\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.pdb
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.Form1.resources
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.csproj.GenerateResource.cache
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.AssemblyInfoInputs.cache
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.AssemblyInfo.cs
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.dll
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\refint\Ejercicio2.dll
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.pdb
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.genruntimeconfig.cache
+D:\Tarea Ejercicios\Ejercicio2\obj\Debug\net8.0-windows\ref\Ejercicio2.dll

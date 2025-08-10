@@ -1,0 +1,26 @@
+D:\Practica\obj\Debug\net8.0-windows\Practica.Form1.resources
+D:\Practica\obj\Debug\net8.0-windows\Practica.csproj.GenerateResource.cache
+D:\Practica\obj\Debug\net8.0-windows\Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practica\obj\Debug\net8.0-windows\Practica.AssemblyInfoInputs.cache
+D:\Practica\obj\Debug\net8.0-windows\Practica.AssemblyInfo.cs
+D:\Practica\obj\Debug\net8.0-windows\Practica.csproj.CoreCompileInputs.cache
+D:\Practica\bin\Debug\net8.0-windows\Practica.exe
+D:\Practica\bin\Debug\net8.0-windows\Practica.deps.json
+D:\Practica\bin\Debug\net8.0-windows\Practica.runtimeconfig.json
+D:\Practica\bin\Debug\net8.0-windows\Practica.dll
+D:\Practica\bin\Debug\net8.0-windows\Practica.pdb
+D:\Practica\obj\Debug\net8.0-windows\Practica.dll
+D:\Practica\obj\Debug\net8.0-windows\refint\Practica.dll
+D:\Practica\obj\Debug\net8.0-windows\Practica.pdb
+D:\Practica\obj\Debug\net8.0-windows\Practica.genruntimeconfig.cache
+D:\Practica\obj\Debug\net8.0-windows\ref\Practica.dll
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Practica.Form1.resources
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Tarea.Form1.resources
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Practica.csproj.GenerateResource.cache
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Practica.AssemblyInfoInputs.cache
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Practica.AssemblyInfo.cs
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Practica.csproj.CoreCompileInputs.cache
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Practica.dll
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\refint\Practica.dll
+D:\Tarea Ejercicios\Practica\obj\Debug\net8.0-windows\Practica.pdb
